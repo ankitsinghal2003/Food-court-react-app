@@ -16,6 +16,7 @@ const AppLayout: FC = function () {
     retry: 2,
     retryDelay: 1000,
   });
+  // const location = useLocation();
 
   const location = useLocation();
 
