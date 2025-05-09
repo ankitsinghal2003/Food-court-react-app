@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
         <p className="text-xs">
           made with ❤️ by{" "}
 <a target="_blank" href="https://github.com/Ankitsinghal729">
-            Ankit Singhal & Adarsh
+            Ankit Singhal
           </a>
         </p>
       </div>
